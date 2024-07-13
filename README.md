@@ -1,6 +1,6 @@
 ![MasterHead](https://imgs.search.brave.com/mT2PNe561Ko7Wdl56YqTzhYTTkrwe1-n_EO_1U10WPE/rs:fit:1200:840:1/g:ce/aHR0cHM6Ly9zdGF0/aWMxLm1ha2V1c2Vv/ZmltYWdlcy5jb20v/d29yZHByZXNzL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzEx/L2Rhcmstd2FsbHBh/cGVycy5qcGc)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Olamide!;+A+Software+Engineer!;+Machine+Learning+Engineer!;+Al+Specialist!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Richard Senyo!;+A+Software+Engineer!;" />
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorjsdivs&label=Profile%20views&color=0e75b6&style=flat" alt="noorjsdivs" /> </p>
@@ -10,7 +10,7 @@
 <!-- Hi! I am a full-stack software engineer with a passion for building great and bleeding-edge software
  -->
 
-Greetings! I am Olamide (David) Oluwamusiwa, a dedicated full-stack software engineer with a passion for AI and Robotics. I excel in programming and AI techniques, aiming to create intelligent systems that solve real-world problems. With my interdisciplinary background, I aspire to push the boundaries of technology and shape a future where intelligent machines enhance the human experience.
+Greetings! I am Richard Senyo Gadasu, a dedicated full-stack software engineer. I am curious and passionate Fullstack Software Engineer with a solid foundation in JavaScript, C, Python, PHP, HTML, and CSS. Thriving in Agile and DevOps environments, I am dedicated to creating reliable solutions that streamline software engineering processes. Proficient in leveraging modern frameworks, libraries, and tools to craft user-friendly interfaces and fast, efficient products.
  
  **I am open to**:
 
