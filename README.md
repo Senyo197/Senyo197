@@ -16,11 +16,7 @@ Greetings! I am Olamide (David) Oluwamusiwa, a dedicated full-stack software eng
 
 - Collaboration work,
 - Software development,
-- Web application projects(development or research),
-- Machine learning projects,
-- Artificial Intelligence project,
-- Data Science project,
-- Technical Training.
+- Web application projects
 
 
 <!-- ## Skills:
@@ -38,16 +34,15 @@ Greetings! I am Olamide (David) Oluwamusiwa, a dedicated full-stack software eng
 
 **Contact:**
 
-Feel free to reach out to me via [email](mailto:oluwamusiwaolamide@gmail.com) or connect with me on other platforms!
+Feel free to reach out to me via [email](mailto:psenyo197@gmail.com) or connect with me on other platforms!
 
 
 ## Connect with me:
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/OOluwamusi75869) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/olamide-oluwamusiwa-17b62827a/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/olamide_ai_art/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/Senyo197) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/richard-senyo-gadasu/)
 </p>
 
 
@@ -69,7 +64,7 @@ Feel free to reach out to me via [email](mailto:oluwamusiwaolamide@gmail.com) or
 
 
 <!--
-**daniel-akinyemi/daniel-akinyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senyo197/Senyo197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
